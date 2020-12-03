@@ -5,6 +5,7 @@ learn css
 learn java
 learn sql
 php
+ Non-IT
 
 non it
 bpo
@@ -13,3 +14,6 @@ thanks
 
 
 final copy
+
+done my changes
+ main
